@@ -1,3 +1,4 @@
 .directory
 /temp*
 /.ipynb_checkpoints
+*.orig
