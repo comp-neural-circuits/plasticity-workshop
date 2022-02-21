@@ -23,4 +23,6 @@ If you have any issue, please send a direct message to one of the TAs, over the 
 
 ## Day 2
 
-**work in progress**
+| Tutorial     | Link |
+| ----------- | ----------- |
+| **Part 1** : Spike timing dependent plasticity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp-neural-circuits/plasticity-workshop/blob/main/stpd.ipynb) |
